@@ -18,15 +18,13 @@ Desain aplikasi pencatatan keuangan dengan visualisasi data yang sederhana.
 
 <img width="8190" height="854" alt="Desain Aplikasi Sewa Pembicara (Figma)" src="https://github.com/user-attachments/assets/f517b4c3-19ae-477c-84fd-df8180fb6721" />
 
-<img width="6891" height="852" alt="Desain Aplikasi Pencatatan Keuangan (Figma)" src="https://github.com/user-attachments/assets/a1423b3b-e4b7-4260-824a-32ee681a4c34" />
-
 ---
 
 ### 2. Speaker Rental Platform App
 🔗 https://www.figma.com/file/VCkkWtDatzZlXDO5Eatl0k 
 Desain platform yang mempermudah pencarian dan pemesanan pembicara.
 
-![Uploading Desain Aplikasi Sewa Pembicara (Figma).png…]()
+<img width="6891" height="852" alt="Desain Aplikasi Pencatatan Keuangan (Figma)" src="https://github.com/user-attachments/assets/a1423b3b-e4b7-4260-824a-32ee681a4c34" />
 
 ---
 
