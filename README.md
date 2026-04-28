@@ -21,7 +21,7 @@ Desain aplikasi pencatatan keuangan dengan visualisasi data yang sederhana.
 ---
 
 ### 2. Speaker Rental Platform App
-🔗 https://www.figma.com/file/VCkkWtDatzZlXDO5Eatl0k
+🔗 https://www.figma.com/file/VCkkWtDatzZlXDO5Eatl0k    
 Desain platform yang mempermudah pencarian dan pemesanan pembicara.
 
 <img width="6891" height="852" alt="Desain Aplikasi Pencatatan Keuangan (Figma)" src="https://github.com/user-attachments/assets/a1423b3b-e4b7-4260-824a-32ee681a4c34" />
@@ -29,7 +29,7 @@ Desain platform yang mempermudah pencarian dan pemesanan pembicara.
 ---
 
 ### 3. Stock Management Website
-🔗 https://www.figma.com/file/K9fHKKxJBlMhjWzsdP6IZC
+🔗 https://www.figma.com/file/K9fHKKxJBlMhjWzsdP6IZC    
 Desain website dengan dashboard dan lainnya yang mempermudah monitoring stok secara real-time.
 
 <img width="23571" height="1084" alt="Design Website Pengelolaan Stok (Figma)" src="https://github.com/user-attachments/assets/dc1d2127-dbf5-451d-83f4-9406a75b58f6" />
